@@ -1,0 +1,24 @@
+{
+  "name": "wa4homepage",
+  "version": "1.0.0",
+  "description": "Washington Lodge No. 4 Official Homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatstrudeau/WA4Homepage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatstrudeau/WA4Homepage/issues"
+  },
+  "homepage": "https://github.com/thatstrudeau/WA4Homepage#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "dotenv": "^16.0.3",
+    "webpack": "^5.75.0"
+  }
+}
